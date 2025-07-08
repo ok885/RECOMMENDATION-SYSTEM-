@@ -1,4 +1,4 @@
-# 📚 Minimal Book Recommender System
+#  Recommender-System
 
 **COMPANY**: CODTECH IT SOLUTIONS  
 **NAME**: BHARAT BHANDARI  
